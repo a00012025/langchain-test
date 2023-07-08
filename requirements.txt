@@ -1,0 +1,11 @@
+pinecone-client
+langchain
+openai
+wikipedia
+google-api-python-client
+unstructured
+tabulate
+pdf2image
+tiktoken
+llama_index
+faiss-cpu
